@@ -98,6 +98,7 @@ function Menu() {
       ) : (
         <p>We'r still working on menu.Please come back later.</p>
       )}
+      {/* <ul className="pizzas">}
       {/* 
       <Pizza
         name="Focaccia"
